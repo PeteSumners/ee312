@@ -1,0 +1,16 @@
+4 6
+abcdaa
+bbc*db
+cabcdc
+dbcded
+
+Matches for "abcd":
+Horizontal matches:
+row, col
+0, 0
+2, 1
+
+Vertical matches:
+row, col
+0, 0
+0, 5

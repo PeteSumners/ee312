@@ -1,0 +1,12 @@
+4 4
+*aa*
+****
+a***
+*aaa
+
+Fails symmetry at...
+1, 0
+1, 3
+2, 3
+
+Locations are where asymmetrical black squares are: not where other characters are.

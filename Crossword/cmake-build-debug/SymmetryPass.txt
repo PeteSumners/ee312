@@ -1,0 +1,6 @@
+5 5
+*a*aa
+a*aa*
+*a*aa
+aaa*a
+a*aa*

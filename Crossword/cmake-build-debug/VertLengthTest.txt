@@ -1,0 +1,5 @@
+4 6
+abcdaa
+bbc*db
+ca*cd*
+d*cded

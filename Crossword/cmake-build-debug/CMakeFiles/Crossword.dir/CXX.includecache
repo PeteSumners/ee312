@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/peter/Desktop/Link to CLionProjects/312/Extra Assignments/Crossword/Crossword.cpp
+Crossword.h
+/home/peter/Desktop/Link to CLionProjects/312/Extra Assignments/Crossword/Crossword.h
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+
+/home/peter/Desktop/Link to CLionProjects/312/Extra Assignments/Crossword/Crossword.h
+stdint.h
+-
+
+/home/peter/Desktop/Link to CLionProjects/312/Extra Assignments/Crossword/main.cpp
+iostream
+-
+Crossword.h
+/home/peter/Desktop/Link to CLionProjects/312/Extra Assignments/Crossword/Crossword.h
+

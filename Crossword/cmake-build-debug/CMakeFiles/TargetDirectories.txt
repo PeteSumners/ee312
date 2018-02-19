@@ -1,0 +1,3 @@
+/home/peter/Desktop/Link to CLionProjects/312/Extra Assignments/Crossword/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/peter/Desktop/Link to CLionProjects/312/Extra Assignments/Crossword/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/peter/Desktop/Link to CLionProjects/312/Extra Assignments/Crossword/cmake-build-debug/CMakeFiles/Crossword.dir
